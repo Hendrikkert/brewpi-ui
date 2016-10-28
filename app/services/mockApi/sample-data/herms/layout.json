@@ -37,7 +37,10 @@
       "part": {
         "type": "TUBE_STRAIGHT"
       },
-      "x": [1,2],
+      "x": [
+        1,
+        2
+      ],
       "y": 11
     },
     {
@@ -68,7 +71,10 @@
       "part": {
         "type": "TUBE_STRAIGHT"
       },
-      "x": [1,2],
+      "x": [
+        1,
+        2
+      ],
       "y": 2
     },
     {
@@ -135,13 +141,19 @@
       "part": {
         "type": "TUBE_STRAIGHT"
       },
-      "x": [2,3],
+      "x": [
+        2,
+        3
+      ],
       "y": 8
     },
     {
       "part": {
         "id": "v1",
         "type": "VALVE_MOTOR"
+      },
+      "options": {
+        "slot": 1
       },
       "x": 3,
       "y": 11
@@ -188,6 +200,9 @@
       "part": {
         "id": "v2",
         "type": "VALVE_MOTOR"
+      },
+      "options": {
+        "slot": 2
       },
       "x": 5,
       "y": 11
@@ -332,6 +347,9 @@
         "id": "v3",
         "type": "VALVE_MOTOR"
       },
+      "options": {
+        "slot": 3
+      },
       "x": 7,
       "y": 10
     },
@@ -427,6 +445,9 @@
         "id": "v4",
         "type": "VALVE_MOTOR"
       },
+      "options": {
+        "slot": 4
+      },
       "x": 8,
       "y": 11
     },
@@ -444,6 +465,9 @@
         "id": "v5",
         "type": "VALVE_MOTOR"
       },
+      "options": {
+        "slot": 5
+      },
       "x": 9,
       "y": 10
     },
@@ -459,6 +483,9 @@
       "part": {
         "id": "v6",
         "type": "VALVE_MOTOR"
+      },
+      "options": {
+        "slot": 6
       },
       "x": 10,
       "y": 11
@@ -485,6 +512,9 @@
         "id": "v7",
         "type": "VALVE_MOTOR"
       },
+      "options": {
+        "slot": 7
+      },
       "x": 11,
       "y": 10
     },
@@ -500,6 +530,9 @@
       "part": {
         "id": "v8",
         "type": "VALVE_MOTOR"
+      },
+      "options": {
+        "slot": 8
       },
       "x": 12,
       "y": 11
@@ -664,6 +697,9 @@
         "id": "v9",
         "type": "VALVE_MOTOR"
       },
+      "options": {
+        "slot": 9
+      },
       "x": 18,
       "y": 8
     },
@@ -680,6 +716,9 @@
         "id": "v10",
         "type": "VALVE_MOTOR"
       },
+      "options": {
+        "slot": 10
+      },
       "x": 20,
       "y": 8
     },
@@ -687,6 +726,9 @@
       "part": {
         "id": "v11",
         "type": "VALVE_MOTOR"
+      },
+      "options": {
+        "slot": 11
       },
       "x": 18,
       "y": 10
@@ -696,6 +738,9 @@
         "id": "v12",
         "type": "VALVE_MOTOR"
       },
+      "options": {
+        "slot": 12
+      },
       "x": 18,
       "y": 11
     },
@@ -703,6 +748,9 @@
       "part": {
         "id": "v13",
         "type": "VALVE_MOTOR"
+      },
+      "options": {
+        "slot": 13
       },
       "x": 18,
       "y": 12

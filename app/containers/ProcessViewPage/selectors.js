@@ -363,4 +363,5 @@ export {
   stepsSelector,
   activeStepIdSelector,
   activeStepSettingsSelector,
+  partSettingsSelector,
 };
